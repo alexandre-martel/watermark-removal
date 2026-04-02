@@ -1,0 +1,12 @@
+diffusers==0.36.0 
+diffusers["torch"]
+huggingface-hub==0.34.0
+segment-anything
+torchmetrics
+simple_lama_inpainting
+ultralytics
+opencv-python
+transformers 
+accelerate 
+peft 
+huggingface_hub

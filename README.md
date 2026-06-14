@@ -149,7 +149,7 @@ To train the PConv U-Net model, we implemented a loss function using the optimiz
 
 #### Results and tests
 
-![results](assets\train_unet.png)
+![results](assets/train_unet.png)
 
 The following metrics are used for the test:
 - The PSNR, which measures the image's digital fidelity. It quantifies the difference in value between the pixels in the original (unprocessed) image and those in the generated (denoised) image.

@@ -1,4 +1,4 @@
-# Watermark Removal unsing Detection, Segmentation and Inpainting
+# Watermark Removal using Detection, Segmentation and Inpainting
 
 The goal of this mini-project is to design an image restoration pipeline capable of detecting and removing watermarks from images.
 The advantage is that only the masked zone is modified, not the whole image.
